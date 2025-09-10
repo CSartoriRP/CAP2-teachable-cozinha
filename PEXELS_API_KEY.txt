@@ -1,0 +1,10 @@
+COLOQUE AQUI SUA CHAVE DO PEXELS (sem espaços, sem quebras de linha).
+
+Exemplo:
+4DVwUXQX38oQeGLHke5vkkeyJS4mMHHGC65j7NOFX3NRGWsB8DGNiZwv
+
+---
+⚠️ Importante:
+- Não inclua aspas (" ").
+- O arquivo deve conter apenas a chave.
+- Esse arquivo deve estar na mesma pasta que o coletar_imagens_pexels.py.
