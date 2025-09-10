@@ -75,22 +75,6 @@ data/
 
 ---
 
-## 📊 Passo 4 – Teste em Lote (opcional)
-
-1. Exporte o modelo no formato **Keras (.h5)**  
-2. Abra o Colab e rode o notebook [`TM_Teste_em_Lote_Simples.ipynb`](TM_Teste_em_Lote_Simples.ipynb)  
-3. Faça upload de:
-   - `keras_model.h5`
-   - `labels.txt`
-   - `data.zip` (compacte sua pasta `data/`)  
-
-O notebook gera:
-- **Acurácia total**
-- **Acurácia por classe**
-- Arquivos `predicoes.csv` e `relatorio_metricas.txt`
-
----
-
 ## 📚 Referências
 - [Teachable Machine](https://teachablemachine.withgoogle.com/)
 - [API Pexels](https://www.pexels.com/api/)
