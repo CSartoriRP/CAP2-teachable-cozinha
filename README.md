@@ -33,7 +33,7 @@ cd C:\teachable-utensilios
 Abra o arquivo `PEXELS_API_KEY.txt` e cole **apenas** a sua chave.  
 Exemplo:  
 ```
-SUA_CHAVE_DO_PEXELS_AQUI
+4DVwUXQX38oQeGLHke5vkkeyJS4mMHHGC65j7NOFX3NRGWsB8DGNiZwv
 ```
 
 ### 4) Crie/ative o ambiente Python e instale dependências
